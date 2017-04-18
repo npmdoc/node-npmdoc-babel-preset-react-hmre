@@ -1,9 +1,14 @@
-# api documentation for  [babel-preset-react-hmre (v1.1.1)](https://github.com/danmartinez101/babel-preset-react-hmre)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-preset-react-hmre.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-preset-react-hmre) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre)
+# npmdoc-babel-preset-react-hmre
+
+#### api documentation for  [babel-preset-react-hmre (v1.1.1)](https://github.com/danmartinez101/babel-preset-react-hmre)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-preset-react-hmre.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-preset-react-hmre) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre)
+
 #### Babel preset for React HMR and Error Catching
 
-[![NPM](https://nodei.co/npm/babel-preset-react-hmre.png?downloads=true)](https://www.npmjs.com/package/babel-preset-react-hmre)
+[![NPM](https://nodei.co/npm/babel-preset-react-hmre.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-preset-react-hmre)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-babel-preset-react-hmre_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-babel-preset-react-hmre/build/screenCapture.npmPackageListing.svg)
 
@@ -45,17 +50,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "danmartinez101",
-            "email": "dam.spam.can@gmail.com"
+            "name": "danmartinez101"
         },
         {
-            "name": "gaearon",
-            "email": "dan.abramov@gmail.com"
+            "name": "gaearon"
         }
     ],
     "name": "babel-preset-react-hmre",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/danmartinez101/babel-preset-react-hmre.git"
@@ -66,17 +68,6 @@
     "version": "1.1.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module babel-preset-react-hmre](#apidoc.module.babel-preset-react-hmre)
-1.  object <span class="apidocSignatureSpan">babel-preset-react-hmre.</span>plugins
-
-
-
-# <a name="apidoc.module.babel-preset-react-hmre"></a>[module babel-preset-react-hmre](#apidoc.module.babel-preset-react-hmre)
 
 
 
