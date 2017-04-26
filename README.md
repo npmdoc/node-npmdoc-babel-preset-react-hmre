@@ -1,6 +1,6 @@
 # npmdoc-babel-preset-react-hmre
 
-#### api documentation for  [babel-preset-react-hmre (v1.1.1)](https://github.com/danmartinez101/babel-preset-react-hmre)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-preset-react-hmre.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-preset-react-hmre) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre)
+#### basic api documentation for  [babel-preset-react-hmre (v1.1.1)](https://github.com/danmartinez101/babel-preset-react-hmre)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-preset-react-hmre.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-preset-react-hmre) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-preset-react-hmre)
 
 #### Babel preset for React HMR and Error Catching
 
@@ -65,7 +65,8 @@
     "scripts": {
         "test": "babel --presets react,../index test/ | grep \"_wrapComponent('Test')(class Test extends React.Component {\""
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
